@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f24d6d58fa5452446ac0ca7a6c1f36fe
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: MRKT2WMRController.Dependencies.msb4u
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 0e4dca1acba66fd478b3854f09a32ec7, type: 3}
+  buildEngine: 0
+  profiles: []
